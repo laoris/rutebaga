@@ -61,3 +61,13 @@ switch, chests(you must hold a certain item to open it... or soemthing)
 == usable items ==
 
 potion (health), elixer(health and mana), tent(all to 100%, remove ailments?), ether(mana)
+
+= Area Effects =
+
+(have a cooldown?  stuff)
+
+*fire
+*river
+*teleport
+*experience
+*healing
