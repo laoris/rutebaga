@@ -66,8 +66,8 @@ potion (health), elixer(health and mana), tent(all to 100%, remove ailments?), e
 
 (have a cooldown?  stuff)
 
-*fire
-*river
-*teleport
-*experience
-*healing
+^fire
+^river
+^teleport
+^experience (has some cooldown)
+^healing (also maybe needs some cooldown)
