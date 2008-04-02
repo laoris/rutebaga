@@ -1,0 +1,3 @@
+#summary How stats actually work (event recognition, caching, equations, etc...)
+
+//todo
