@@ -1,10 +1,10 @@
 #summary Commandments that we Shall Not break in our designs and implementations.
 
-# You shall not use static references in your code;
-# You shall not make designs that require static references, as Dave eats them for breakfast;
-# You shall not use enumerations unless expressedly required, as they violate OCP;
-# You shall not use literal tokens, as they are worse than enumerations;
-# You shall not declare any field with an access modifier other than "private";
-# You shall not break the Law of Demeter unless expressedly required, as this is structurally binding;
-# You shall not use double dispatch judiciously, as visitor interfaces violate OCP; and,
-# You shall not use typecasts unless the JVM requires it, as typecasts rely on hidden details of operations that are not documented.
+  # You shall not use static references in your code;
+  # You shall not make designs that require static references, as Dave eats them for breakfast;
+  # You shall not use enumerations unless expressedly required, as they violate OCP;
+  # You shall not use literal tokens, as they are worse than enumerations;
+  # You shall not declare any field with an access modifier other than "private";
+  # You shall not break the Law of Demeter unless expressedly required, as this is structurally binding;
+  # You shall not use double dispatch judiciously, as visitor interfaces violate OCP; and,
+  # You shall not use typecasts unless the JVM requires it, as typecasts rely on hidden details of operations that are not documented.
