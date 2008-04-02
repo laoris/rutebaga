@@ -1,3 +1,5 @@
+#summary What stats do.
+
 =Primary stats=
 
     * Lives left - how many more times the entity can die before the game is over.
