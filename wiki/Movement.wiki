@@ -34,7 +34,7 @@ We must define the following units:
 
 The environment's physics resolution cycle commences as follows:
 
-  * velocity resultant from momentum (*v,,p*) is calculated
+  * velocity resultant from momentum (*v,,p,,*) is calculated
   * net velocity (*v,,net,,*) is calculated from applied velocity and velocity resultant from momentum
   * applied velocity is reset
   * the momentum is adjusted based on the coefficient of friction available and the mass of the instance
