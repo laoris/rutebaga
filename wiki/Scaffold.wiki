@@ -1,3 +1,4 @@
 #summary What the scaffold is and how it works.
+#labels Pages-Requiring-Writing
 
 //todo
