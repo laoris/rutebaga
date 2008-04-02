@@ -1,3 +1,23 @@
 #summary How movement werkz.
 
-//todo
+=Velocity-Based Model=
+
+Each instance that has location contains a vector representing its velocity.  This vector is managed solely by the environment; that is, the instance cannot directly alter it.
+
+Affecting this vector is done through a public operation that applies a force to the instance.
+
+Before forwarding ticks, the environment iterates through its instances.  Based on each instance's velocity, it determines:
+
+  * if the instance is about to cross a tile boundary
+  * if so, whether or not it is able to enter that tile
+
+And accordingly,
+
+  * moves the instance, or
+  * does not move the instance
+
+Regardless, the velocity vector is reset after this has completed.
+
+=Momentum-Based Model=
+
+Take a lot of acid, and then write some code.  See what happens.  Cool colors.
