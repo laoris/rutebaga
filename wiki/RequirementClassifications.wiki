@@ -4,6 +4,6 @@ _Note: the definition types come first, followed by the instance type._
 
 =Iteration 1=
 
-  *  Entities: ( EntityDef, NPCEntityDef )  ( Entity )
+  *  Entities: EntityDef, NPCEntityDef / Entity
   *  Occupations: Occupation (no instance type)
   *  Stats: 
