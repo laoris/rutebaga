@@ -1,0 +1,9 @@
+#summary Where each of the requirements fits into our class model.
+
+_Note: the definition types come first, followed by the instance type._
+
+=Iteration 1=
+
+  *  Entities: ( EntityDef, NPCEntityDef )  ( Entity )
+  *  Occupations: Occupation (no instance type)
+  *  Stats: 
