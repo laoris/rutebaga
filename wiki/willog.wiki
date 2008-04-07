@@ -161,3 +161,9 @@ Sketching elements of the rwt.  Specifying skills and items.
 *5pm-8pm*
 
 Second meeting with rutebaga.
+
+= 4/6/08 = 
+
+*12:30pm-9:30pm*
+
+Almost done with the design doc spec.
